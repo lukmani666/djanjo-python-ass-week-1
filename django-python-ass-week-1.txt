@@ -1,0 +1,7 @@
+Develop a single page site with your name, a short bio, and contact information.
+
+Practice setting up static files like CSS and images.
+
+Use Django Admin to update the fields.
+
+Happy coding.
